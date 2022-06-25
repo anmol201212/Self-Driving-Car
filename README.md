@@ -1,9 +1,8 @@
 # Self-driving-car
 
-This is the code I wrote during the Self-driving car (no libraries) JavaScript course:
-<Link>
+This is the code I wrote during the making of my first Javascript project,that is, Self-driving car.
   
-The code will appear as the course progresses and will be divided into parts as follows:
+
   1. Car driving mechanics
   2. Road definition
   3. Artificial sensors
